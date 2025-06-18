@@ -35,7 +35,7 @@ A complete ethical hacking utility built in Python with a beautiful Tkinter-base
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/network-scanner-gui.git
+git clone https://github.com/wisham/net-scanner.git
 cd network-scanner-gui
 
 
