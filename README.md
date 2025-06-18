@@ -4,7 +4,7 @@
 
 A complete ethical hacking utility built in Python with a beautiful Tkinter-based GUI. This tool allows you to perform various footprinting and scanning tasks on a given IP or domain such as WHOIS lookup, DNS analysis, subdomain enumeration, port scanning, and more — all within an intuitive, user-friendly interface.
 
----
+-----------------------------------------------------------------------------------------
 
 ## ✨ Features
 
@@ -19,29 +19,41 @@ A complete ethical hacking utility built in Python with a beautiful Tkinter-base
 - 📡 **Ping Sweep**
 - 🧩 **CMS Detector (Basic)**
 
----
+-----------------------------------------------------------------------------------------
 
 
 
 ## 🛠️ Technologies Used
 
-- **Python 3**
+- Python 3
 - **Tkinter** – for GUI
 - **Requests, dnspython, whois** – for various scanners
 
----
+-----------------------------------------------------------------------------------------
 
 ## 🚀 How to Run
 
-1. **Clone the Repository**
+1. Clone the Repository
 ```bash
 git clone https://github.com/wisham/net-scanner.git
 cd network-scanner-gui
 
 
+-----------------------------------------------------------------------------------------
+Extract .rar File
+
+1.INSTALLATION
+    sudo apt update
+    sudo apt install unrar -y
+
+2. To extract to the same directory:
+    unrar x scanners.rar
+
+-----------------------------------------------------------------------------------------
+
 Run the App
   python main_gui.py
-
+-----------------------------------------------------------------------------------------
 
 Folder Structure
 network-scanner-gui/
